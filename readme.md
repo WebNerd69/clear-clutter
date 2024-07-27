@@ -11,10 +11,10 @@ Steps for installation
           initialise the node project by using "npm init -y" in the terminal
      </li>
      <li>
-          install the node fs module by using "npm insttall fs" in the terminal
+          install the node fs module by using "npm install fs" in the terminal
      </li>
      <li>
-          install the node path module by using "npm insttall path" in the terminal
+          install the node path module by using "npm install path" in the terminal
      </li>
      <li>
           copy the directory path in which the clutter is to be cleared and paste it in the dirPath variable in the source code
