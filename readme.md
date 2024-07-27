@@ -11,7 +11,7 @@ Steps for installation
           initialise the node project by using "npm init -y" in the terminal
      </li>
      <li>
-          copy the directory path in which the clutter is to be cleared
+          copy the directory path in which the clutter is to be cleared and paste it in the dirPath variable in the source code
      </li>
      <li>
           run the program by writing "node clearClutter.js" in terminal (make sure you are in the same directory as the program or use "cd file-path in cmd)
