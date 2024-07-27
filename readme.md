@@ -1,7 +1,7 @@
 <h1>THIS IS A PROGRAM TO CLEAR CLUTTER FROM A GIVEN DIRECTORY</h1>
-<h2>Author -Rudra Pratap Roy (WebNerd69) </h2>
+<h2> <b> Author -Rudra Pratap Roy (WebNerd69) </b> </h2>
 
-Steps for installation 
+<b> Steps for installation </b>
 
 <ul>
      <li>
