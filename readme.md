@@ -5,7 +5,7 @@ Steps for installation
 
 <ul>
      <li>
-          install nodejs
+          install node.js "https://nodejs.org/en/download/prebuilt-installer"
      </li>
      <li>
           initialise the node project by using "npm init -y" in the terminal
